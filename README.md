@@ -1,1 +1,1 @@
-tady budu ukladat sve ukoly:))
+Úkoly Kybernetika II
