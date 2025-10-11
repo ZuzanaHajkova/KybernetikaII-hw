@@ -1,0 +1,5 @@
+#cervena {background-color:red;}
+#zluta {background-color:rgb(255, 196, 0);}
+#zelena {background-color:green;}
+
+#cervena, #zluta, #zelena {text-align:center;}
